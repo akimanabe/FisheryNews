@@ -1,5 +1,9 @@
 # [北海のトロール漁業で漁獲されたハナカケトラザメによるプラスチック摂取について](https://www.sciencedirect.com/science/article/pii/S0025326X18301462?via%3Dihub)
-L.E. スミス
+
+Plastic ingestion by *Scyliorhinus canicula* trawl captured in the North Sea
+Marine Pollution Bulletin, (2018), volume 130, pages 6-7.
+
+著: L.E. スミス
 
 ## ハイライト
 - ハナカケトラザメ３個体からマクロプラスチックとマイクロプラスチックが発見された
