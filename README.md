@@ -11,5 +11,10 @@
 
 ## 2019-11-15
 
-### [Audit finds Canada's fisheries in decline, says response lacks urgency (カナダ漁業の枯渇と、切迫感のない対策について)](20191115Canada.md)
- 著：Holly McKenzie-Sutter, The Canadian Press, 2019-11-13
+### [カナダ漁業の枯渇と、切迫感のない対策について (Audit finds Canada's fisheries in decline, says response lacks urgency)](20191115Canada.md)
+Holly McKenzie-Sutter, *The Canadian Press*, 2019-11-13
+
+## 2019-11-20
+
+### [北海のトロール漁業で漁獲されたハナカケトラザメによるプラスチック摂取について (Plastic ingestion by *Scyliorhinus canicula* trawl captured in the North Sea) ](hanakake.md)
+L.E.Smith *Mar. Pol. Bull.* 2018, **130**, 6-7.
