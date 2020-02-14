@@ -18,3 +18,7 @@ Holly McKenzie-Sutter, *The Canadian Press*, 2019-11-13
 
 ### [北海のトロール漁業で漁獲されたハナカケトラザメによるプラスチック摂取について (Plastic ingestion by *Scyliorhinus canicula* trawl captured in the North Sea) ](hanakake.md)
 L.E.Smith *Mar. Pol. Bull.* 2018, **130**, 6-7.
+
+## 2020-02-14
+
+### [イギリスがEEZでの漁場取り締まりを強化－ブレグジット後の外国船操業問題に対応(UK to strengthen sea patrols to ward off post-Brexit fishing wars)](ukseapatrol.md)
