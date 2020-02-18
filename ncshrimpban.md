@@ -1,4 +1,4 @@
-# []沿岸漁業の規制案によってもたらされた漁業者の意見の相違について(Proposal to regulate coastal fishing draws strong differences of opinion)](https://carolinapublicpress.org/29412/proposal-to-regulate-coastal-fishing-draws-strong-differences-of-opinion/)
+# [沿岸漁業の規制案によってもたらされた漁業者の意見の相違について(Proposal to regulate coastal fishing draws strong differences of opinion)](https://carolinapublicpress.org/29412/proposal-to-regulate-coastal-fishing-draws-strong-differences-of-opinion/)
 by Jack Igelman *Carolina Public Press*
 10/17/2019 (Last accessed 11/21/2019)
 
