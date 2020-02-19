@@ -1,4 +1,4 @@
-# [アラスカのオヒョウ漁業、ＤＮＡ鑑定により、漁獲の90%がメスと判明。漁獲制限枠の制定きまる](https://www.ktuu.com/content/news/DNA-tests-show-commercial-halibut-catch-90-female-influencing-catch-limits-set-this-week-567594591.html)
+# [アラスカのオヒョウ漁業、ＤＮＡ鑑定により、漁獲の90%がメスと判明。漁獲制限枠の制定へ](https://www.ktuu.com/content/news/DNA-tests-show-commercial-halibut-catch-90-female-influencing-catch-limits-set-this-week-567594591.html)
 # [DNA tests show commercial halibut catch 90% female, influencing catch limits being set this week](https://www.ktuu.com/content/news/DNA-tests-show-commercial-halibut-catch-90-female-influencing-catch-limits-set-this-week-567594591.html)
 
 By Grant Robinson, KTUU, Wed 12:11 pM , Feb 05, 2020
