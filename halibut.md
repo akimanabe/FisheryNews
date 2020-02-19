@@ -22,6 +22,6 @@ DNAを用いて（１）の結果を評価したところ、両手法とも性�
 
 今後は底延縄以外の漁獲データの性比を調査するほか、環境による効果なども精査し、全体の性比や性決定についても研究を行い、資源状態の把握に貢献する予定である。
 
-###【参考文献】
+### 【参考文献】
 1. NOAA. (n.d.) **Pacific Halibut** [online] Available at: https://www.fisheries.noaa.gov/species/pacific-halibut [Accessed 19 Feb. 2020].
 2. [IPHC 2020. Report of the 96th Session of the IPHC Annual Meeting (AM096). Anchorage, Alaska, USA, 3-7 February 2020](https://iphc.int/uploads/pdf/am/2020am/iphc-2020-am096-r.pdf).
